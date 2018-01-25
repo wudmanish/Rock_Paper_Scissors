@@ -1,2 +1,2 @@
 # Rock_Paper_Scissors
-Exercises for Sinatra book
+1st Exercise for Sinatra book
